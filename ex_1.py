@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# coding: utf-8
+
 import seaborn as sns
 import matplotlib.pyplot as plt
 from ipywidgets import interactive, Select, interact
